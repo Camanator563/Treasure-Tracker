@@ -1,3 +1,7 @@
+# Using dictionaries help organize everything because you can keep track of everything cause it's all put into the same place but spreaded out
+# The big Challenge was figuring out why my code wasn't working.. Turns out I put [] for the inventory and not {}. So both treasures and inventory had []
+# A good way to expand this assignment is to add certain items you can add to your treasure instead of being able to input anything into the thing and it gives you that whatever you typed
+
 # This creates an empty list for discovered treasures.
 # This creates an empty dictionary to track each item’s quantity and value.
 treasures = []
